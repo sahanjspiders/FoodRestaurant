@@ -1,0 +1,29 @@
+.Firstimage{
+    background-image: url('https://wallpaperaccess.com/full/8300579.jpg');
+    background-size: 1000px ;
+    background-repeat: no-repeat;
+    width: 2200px;
+    height: 900px;
+background-position: center center;
+}
+
+
+
+
+
+
+.imagediv img{
+    height: 600px;
+    width: 500px;
+}
+
+.Forms{
+    width: 500px;
+    padding-left: 60px;
+}
+
+.maincont{
+    margin-left: 100px;
+    margin-top: 60px;
+
+}

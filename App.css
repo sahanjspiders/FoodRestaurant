@@ -1,0 +1,69 @@
+.input{
+  width: 300px;
+outline: none;
+  /* border-radius:0px 10px 0px 0px ; */
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  padding-bottom: 8px;
+  
+}
+
+@media only screen and (max-width:860px){
+
+/* .images img{
+display: none;
+} */
+
+.Signu{
+  /* flex: none; */
+  display: grid;
+}
+
+.Hhh{
+  display: none;
+  }
+
+
+.input{
+  width: 200px;
+}  
+
+}
+
+
+@media only screen and (max-width:498px){
+
+  .images img{
+  display: none;
+  }
+  
+
+
+  .Hhh{
+    display: none;
+    }
+  
+  
+  .input{
+    width: 200px;
+  }  
+  
+  }
+
+  @media only screen and (max-width:325px){
+
+    .images img{
+    display: none;
+    }
+    
+    .Hhh{
+      display: none;
+      }
+    
+    
+    .input{
+      width: 100px;
+    }  
+    
+    }

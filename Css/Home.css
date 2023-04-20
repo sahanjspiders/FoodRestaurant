@@ -1,0 +1,180 @@
+.imagecontenar{
+    
+    height: 500px;
+    width: 1200px;
+}
+
+.innercontenar{
+width: 400px;
+}
+
+.font{
+    font-weight: 900;
+   text-align: left;
+   margin-left: 80px;
+}
+
+.par1{
+    margin-right: 120px;
+}
+
+.par{
+    margin-left: 0px;
+}
+
+.par3{
+    margin-right: 70px;
+}
+
+
+.inline{
+height: 1px;
+width: 220px;
+background-color: black;
+}
+
+
+
+/* / ---------page 2 ============/ */
+
+/* .Home2{
+    height: 600px;
+} */
+
+
+.cont2{
+    /* justify-content: ; */
+    margin-left: 150px;
+
+   }
+   
+   .txxxxxt{
+    font-family: serif;
+   }
+   
+   
+   .singleitems{
+    width: 600px;
+      margin-left: 40px;
+   background-size: 500px;
+   height: 700px;
+   background-repeat: no-repeat;
+   background-image: url('https://images.unsplash.com/photo-1532980400857-e8d9d275d858?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+     
+   }
+   
+   
+   
+   .Home2text{
+       padding-top: 500px;
+       font-size: 40px;
+   }
+
+   .items{
+       display: flex;
+      flex-wrap: wrap;
+      width: 600px;
+          
+   }
+
+   /* /---------------------------Home 3=================/ */
+   .mainContenar{
+    width: 2000px;
+    margin-left: 100px;
+}
+
+
+
+.contenar{
+    width: 1100px;
+}
+
+.cardMain{
+    width: 500px;
+}
+
+.cardlast{
+    width: 300px;
+}
+/* /====================home4--------------------/ */
+.home4{
+    height: 600px;
+}
+
+.WatchVideo{
+    padding: 40px;
+}
+
+.fonts{
+    
+    font-family: serif;
+    font-size: 70px;
+}
+
+
+.lllll{
+    width: 340px;
+    height: 720px;
+}
+
+.home4img{
+    height: 670px;
+    width:1200px ;
+}
+
+
+
+/* ==========================page5==================== */
+
+
+.home5{
+    /* width: 1000px; */
+margin: 120px; 
+margin-top: 200px;  
+}
+
+.allcards{
+    width: 500px;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+
+.home5image{
+    width: 570px;
+    /* margin-left: 100px; */
+    height: 800px;
+}
+
+.recards{
+width: 600px;
+height: 300px;
+display: flex;
+flex-wrap: wrap; 
+}
+/* /cemter cards// */
+.card{
+    margin: auto;
+    width: 220px;
+    margin-top: 30px;
+    text-align: center;
+    text-size-adjust: unset;
+    height: 150px;
+}
+/* /cemter cards// */
+.card h4{
+    padding-top: 35px;
+    font-size: 40px;
+}
+
+/* .card h6{
+    
+} */
+
+
+
+
+/* /===============lastpage==================/ */
+.lastpage{
+    height: 600px;
+    margin-top: 100px;
+}
